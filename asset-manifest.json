@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/code-generator/static/css/main.152a2a60.css",
+    "main.js": "/code-generator/static/js/main.3f571a27.js",
+    "index.html": "/code-generator/index.html",
+    "main.152a2a60.css.map": "/code-generator/static/css/main.152a2a60.css.map",
+    "main.3f571a27.js.map": "/code-generator/static/js/main.3f571a27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.152a2a60.css",
+    "static/js/main.3f571a27.js"
+  ]
+}
